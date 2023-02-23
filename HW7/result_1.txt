@@ -1,0 +1,54 @@
+140735343220846
+140735343220846
+140735343220846
+Log(insert(0)) -> thread {140102502414016} inserted {0}
+Log(get_length()) -> thread {140102502414016}: length is {7}
+Log(lookup(0)) -> thread {140102502414016} found {0}
+Log(delete(0)) -> thread {140102502414016} deleted {0}
+Log(insert(1)) -> thread {140102502414016} inserted {1}
+Log(get_length()) -> thread {140102502414016}: length is {6}
+Log(lookup(1)) -> thread {140102502414016} found {1}
+Log(delete(1)) -> thread {140102502414016} deleted {1}
+Log(insert(2)) -> thread {140102502414016} inserted {2}
+Log(get_length()) -> thread {140102502414016}: length is {5}
+Log(lookup(2)) -> thread {140102502414016} found {2}
+Log(delete(2)) -> thread {140102502414016} deleted {2}
+Log(insert(3)) -> thread {140102502414016} inserted {3}
+Log(get_length()) -> thread {140102502414016}: length is {7}
+Log(lookup(3)) -> thread {140102502414016} found {3}
+Log(delete(3)) -> thread {140102502414016} deleted {3}
+Log(insert(4)) -> thread {140102502414016} inserted {4}
+Log(get_length()) -> thread {140102502414016}: length is {5}
+Log(lookup(4)) -> thread {140102502414016} found {4}
+Log(delete(4)) -> thread {140102502414016} deleted {4}
+Log(insert(5)) -> thread {140102502414016} inserted {5}
+Log(get_length()) -> thread {140102502414016}: length is {7}
+Log(lookup(5)) -> thread {140102502414016} found {5}
+Log(delete(5)) -> thread {140102502414016} deleted {5}
+Log(insert(0)) -> thread {140102494021312} inserted {0}
+Log(get_length()) -> thread {140102494021312}: length is {6}
+Log(lookup(0)) -> thread {140102494021312} found {0}
+Log(delete(0)) -> thread {140102494021312} deleted {0}
+Log(insert(1)) -> thread {140102494021312} inserted {1}
+Log(get_length()) -> thread {140102494021312}: length is {4}
+Log(lookup(1)) -> thread {140102494021312} found {1}
+Log(delete(1)) -> thread {140102494021312} deleted {1}
+Log(insert(2)) -> thread {140102494021312} inserted {2}
+Log(get_length()) -> thread {140102494021312}: length is {5}
+Log(lookup(2)) -> thread {140102494021312} found {2}
+Log(delete(2)) -> thread {140102494021312} deleted {2}
+Log(insert(3)) -> thread {140102494021312} inserted {3}
+Log(get_length()) -> thread {140102494021312}: length is {5}
+Log(lookup(3)) -> thread {140102494021312} found {3}
+Log(delete(3)) -> thread {140102494021312} deleted {3}
+Log(insert(4)) -> thread {140102494021312} inserted {4}
+Log(get_length()) -> thread {140102494021312}: length is {6}
+Log(lookup(4)) -> thread {140102494021312} found {4}
+Log(delete(4)) -> thread {140102494021312} deleted {4}
+Log(insert(5)) -> thread {140102494021312} inserted {5}
+Log(get_length()) -> thread {140102494021312}: length is {7}
+Log(lookup(5)) -> thread {140102494021312} found {5}
+Log(delete(5)) -> thread {140102494021312} deleted {5}
+140735343220846
+140735343220846
+140735343220846

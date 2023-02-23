@@ -1,0 +1,438 @@
+140724679925902
+140724679925902
+140724679925902
+Log(insert(0)) -> thread {140449470756544} inserted {0}
+Log(get_length()) -> thread {140449470756544}: length is {7}
+Log(lookup(0)) -> thread {140449470756544} found {0}
+Log(delete(0)) -> thread {140449470756544} deleted {0}
+Log(insert(1)) -> thread {140449470756544} inserted {1}
+Log(get_length()) -> thread {140449470756544}: length is {6}
+Log(lookup(1)) -> thread {140449470756544} found {1}
+Log(delete(1)) -> thread {140449470756544} deleted {1}
+Log(insert(2)) -> thread {140449470756544} inserted {2}
+Log(get_length()) -> thread {140449470756544}: length is {5}
+Log(lookup(2)) -> thread {140449470756544} found {2}
+Log(delete(2)) -> thread {140449470756544} deleted {2}
+Log(insert(3)) -> thread {140449470756544} inserted {3}
+Log(get_length()) -> thread {140449470756544}: length is {7}
+Log(lookup(3)) -> thread {140449470756544} found {3}
+Log(delete(3)) -> thread {140449470756544} deleted {3}
+Log(insert(4)) -> thread {140449470756544} inserted {4}
+Log(get_length()) -> thread {140449470756544}: length is {5}
+Log(lookup(4)) -> thread {140449470756544} found {4}
+Log(delete(4)) -> thread {140449470756544} deleted {4}
+Log(insert(5)) -> thread {140449470756544} inserted {5}
+Log(get_length()) -> thread {140449470756544}: length is {7}
+Log(lookup(5)) -> thread {140449470756544} found {5}
+Log(delete(5)) -> thread {140449470756544} deleted {5}
+Log(insert(6)) -> thread {140449470756544} inserted {6}
+Log(get_length()) -> thread {140449470756544}: length is {6}
+Log(lookup(6)) -> thread {140449470756544} found {6}
+Log(delete(6)) -> thread {140449470756544} deleted {6}
+Log(insert(7)) -> thread {140449470756544} inserted {7}
+Log(get_length()) -> thread {140449470756544}: length is {4}
+Log(lookup(7)) -> thread {140449470756544} found {7}
+Log(delete(7)) -> thread {140449470756544} deleted {7}
+Log(insert(8)) -> thread {140449470756544} inserted {8}
+Log(get_length()) -> thread {140449470756544}: length is {5}
+Log(lookup(8)) -> thread {140449470756544} found {8}
+Log(delete(8)) -> thread {140449470756544} deleted {8}
+Log(insert(9)) -> thread {140449470756544} inserted {9}
+Log(get_length()) -> thread {140449470756544}: length is {5}
+Log(lookup(9)) -> thread {140449470756544} found {9}
+Log(delete(9)) -> thread {140449470756544} deleted {9}
+Log(insert(10)) -> thread {140449470756544} inserted {10}
+Log(get_length()) -> thread {140449470756544}: length is {6}
+Log(lookup(10)) -> thread {140449470756544} found {10}
+Log(delete(10)) -> thread {140449470756544} deleted {10}
+Log(insert(11)) -> thread {140449470756544} inserted {11}
+Log(get_length()) -> thread {140449470756544}: length is {7}
+Log(lookup(11)) -> thread {140449470756544} found {11}
+Log(delete(11)) -> thread {140449470756544} deleted {11}
+Log(insert(0)) -> thread {140449462363840} inserted {0}
+Log(get_length()) -> thread {140449462363840}: length is {6}
+Log(lookup(0)) -> thread {140449462363840} found {0}
+Log(delete(0)) -> thread {140449462363840} deleted {0}
+Log(insert(1)) -> thread {140449462363840} inserted {1}
+Log(get_length()) -> thread {140449462363840}: length is {7}
+Log(lookup(1)) -> thread {140449462363840} found {1}
+Log(delete(1)) -> thread {140449462363840} deleted {1}
+Log(insert(2)) -> thread {140449462363840} inserted {2}
+Log(get_length()) -> thread {140449462363840}: length is {7}
+Log(lookup(2)) -> thread {140449462363840} found {2}
+Log(delete(2)) -> thread {140449462363840} deleted {2}
+Log(insert(3)) -> thread {140449462363840} inserted {3}
+Log(get_length()) -> thread {140449462363840}: length is {6}
+Log(lookup(3)) -> thread {140449462363840} found {3}
+Log(delete(3)) -> thread {140449462363840} deleted {3}
+Log(insert(4)) -> thread {140449462363840} inserted {4}
+Log(get_length()) -> thread {140449462363840}: length is {4}
+Log(lookup(4)) -> thread {140449462363840} found {4}
+Log(delete(4)) -> thread {140449462363840} deleted {4}
+Log(insert(5)) -> thread {140449462363840} inserted {5}
+Log(get_length()) -> thread {140449462363840}: length is {6}
+Log(lookup(5)) -> thread {140449462363840} found {5}
+Log(delete(5)) -> thread {140449462363840} deleted {5}
+Log(insert(6)) -> thread {140449462363840} inserted {6}
+Log(get_length()) -> thread {140449462363840}: length is {5}
+Log(lookup(6)) -> thread {140449462363840} found {6}
+Log(delete(6)) -> thread {140449462363840} deleted {6}
+Log(insert(7)) -> thread {140449462363840} inserted {7}
+Log(get_length()) -> thread {140449462363840}: length is {5}
+Log(lookup(7)) -> thread {140449462363840} found {7}
+Log(delete(7)) -> thread {140449462363840} deleted {7}
+Log(insert(8)) -> thread {140449462363840} inserted {8}
+Log(get_length()) -> thread {140449462363840}: length is {8}
+Log(lookup(8)) -> thread {140449462363840} found {8}
+Log(delete(8)) -> thread {140449462363840} deleted {8}
+Log(insert(9)) -> thread {140449462363840} inserted {9}
+Log(get_length()) -> thread {140449462363840}: length is {5}
+Log(lookup(9)) -> thread {140449462363840} found {9}
+Log(delete(9)) -> thread {140449462363840} deleted {9}
+Log(insert(10)) -> thread {140449462363840} inserted {10}
+Log(get_length()) -> thread {140449462363840}: length is {8}
+Log(lookup(10)) -> thread {140449462363840} found {10}
+Log(delete(10)) -> thread {140449462363840} deleted {10}
+Log(insert(11)) -> thread {140449462363840} inserted {11}
+Log(get_length()) -> thread {140449462363840}: length is {6}
+Log(lookup(11)) -> thread {140449462363840} found {11}
+Log(delete(11)) -> thread {140449462363840} deleted {11}
+Log(insert(0)) -> thread {140449487541952} inserted {0}
+Log(get_length()) -> thread {140449487541952}: length is {6}
+Log(lookup(0)) -> thread {140449487541952} found {0}
+Log(delete(0)) -> thread {140449487541952} deleted {0}
+Log(insert(1)) -> thread {140449487541952} inserted {1}
+Log(get_length()) -> thread {140449487541952}: length is {6}
+Log(lookup(1)) -> thread {140449487541952} found {1}
+Log(delete(1)) -> thread {140449487541952} deleted {1}
+Log(insert(2)) -> thread {140449487541952} inserted {2}
+Log(get_length()) -> thread {140449487541952}: length is {6}
+Log(lookup(2)) -> thread {140449487541952} found {2}
+Log(delete(2)) -> thread {140449487541952} deleted {2}
+Log(insert(3)) -> thread {140449487541952} inserted {3}
+Log(get_length()) -> thread {140449487541952}: length is {7}
+Log(lookup(3)) -> thread {140449487541952} found {3}
+Log(delete(3)) -> thread {140449487541952} deleted {3}
+Log(insert(4)) -> thread {140449487541952} inserted {4}
+Log(get_length()) -> thread {140449487541952}: length is {7}
+Log(lookup(4)) -> thread {140449487541952} found {4}
+Log(delete(4)) -> thread {140449487541952} deleted {4}
+Log(insert(5)) -> thread {140449487541952} inserted {5}
+Log(get_length()) -> thread {140449487541952}: length is {7}
+Log(lookup(5)) -> thread {140449487541952} found {5}
+Log(delete(5)) -> thread {140449487541952} deleted {5}
+Log(insert(6)) -> thread {140449487541952} inserted {6}
+Log(get_length()) -> thread {140449487541952}: length is {5}
+Log(lookup(6)) -> thread {140449487541952} found {6}
+Log(delete(6)) -> thread {140449487541952} deleted {6}
+Log(insert(7)) -> thread {140449487541952} inserted {7}
+Log(get_length()) -> thread {140449487541952}: length is {6}
+Log(lookup(7)) -> thread {140449487541952} found {7}
+Log(delete(7)) -> thread {140449487541952} deleted {7}
+Log(insert(8)) -> thread {140449487541952} inserted {8}
+Log(get_length()) -> thread {140449487541952}: length is {6}
+Log(lookup(8)) -> thread {140449487541952} found {8}
+Log(delete(8)) -> thread {140449487541952} deleted {8}
+Log(insert(9)) -> thread {140449487541952} inserted {9}
+Log(get_length()) -> thread {140449487541952}: length is {6}
+Log(lookup(9)) -> thread {140449487541952} found {9}
+Log(delete(9)) -> thread {140449487541952} deleted {9}
+Log(insert(10)) -> thread {140449487541952} inserted {10}
+Log(get_length()) -> thread {140449487541952}: length is {5}
+Log(lookup(10)) -> thread {140449487541952} found {10}
+Log(delete(10)) -> thread {140449487541952} deleted {10}
+Log(insert(11)) -> thread {140449487541952} inserted {11}
+Log(get_length()) -> thread {140449487541952}: length is {7}
+Log(lookup(11)) -> thread {140449487541952} found {11}
+Log(delete(11)) -> thread {140449487541952} deleted {11}
+Log(insert(0)) -> thread {140449479149248} inserted {0}
+Log(get_length()) -> thread {140449479149248}: length is {5}
+Log(lookup(0)) -> thread {140449479149248} found {0}
+Log(delete(0)) -> thread {140449479149248} deleted {0}
+Log(insert(1)) -> thread {140449479149248} inserted {1}
+Log(get_length()) -> thread {140449479149248}: length is {4}
+Log(lookup(1)) -> thread {140449479149248} found {1}
+Log(delete(1)) -> thread {140449479149248} deleted {1}
+Log(insert(2)) -> thread {140449479149248} inserted {2}
+Log(get_length()) -> thread {140449479149248}: length is {7}
+Log(lookup(2)) -> thread {140449479149248} found {2}
+Log(delete(2)) -> thread {140449479149248} deleted {2}
+Log(insert(3)) -> thread {140449479149248} inserted {3}
+Log(get_length()) -> thread {140449479149248}: length is {6}
+Log(lookup(3)) -> thread {140449479149248} found {3}
+Log(delete(3)) -> thread {140449479149248} deleted {3}
+Log(insert(4)) -> thread {140449479149248} inserted {4}
+Log(get_length()) -> thread {140449479149248}: length is {5}
+Log(lookup(4)) -> thread {140449479149248} found {4}
+Log(delete(4)) -> thread {140449479149248} deleted {4}
+Log(insert(5)) -> thread {140449479149248} inserted {5}
+Log(get_length()) -> thread {140449479149248}: length is {5}
+Log(lookup(5)) -> thread {140449479149248} found {5}
+Log(delete(5)) -> thread {140449479149248} deleted {5}
+Log(insert(6)) -> thread {140449479149248} inserted {6}
+Log(get_length()) -> thread {140449479149248}: length is {5}
+Log(lookup(6)) -> thread {140449479149248} found {6}
+Log(delete(6)) -> thread {140449479149248} deleted {6}
+Log(insert(7)) -> thread {140449479149248} inserted {7}
+Log(get_length()) -> thread {140449479149248}: length is {7}
+Log(lookup(7)) -> thread {140449479149248} found {7}
+Log(delete(7)) -> thread {140449479149248} deleted {7}
+Log(insert(8)) -> thread {140449479149248} inserted {8}
+Log(get_length()) -> thread {140449479149248}: length is {4}
+Log(lookup(8)) -> thread {140449479149248} found {8}
+Log(delete(8)) -> thread {140449479149248} deleted {8}
+Log(insert(9)) -> thread {140449479149248} inserted {9}
+Log(get_length()) -> thread {140449479149248}: length is {5}
+Log(lookup(9)) -> thread {140449479149248} found {9}
+Log(delete(9)) -> thread {140449479149248} deleted {9}
+Log(insert(10)) -> thread {140449479149248} inserted {10}
+Log(get_length()) -> thread {140449479149248}: length is {6}
+Log(lookup(10)) -> thread {140449479149248} found {10}
+Log(delete(10)) -> thread {140449479149248} deleted {10}
+Log(insert(11)) -> thread {140449479149248} inserted {11}
+Log(get_length()) -> thread {140449479149248}: length is {4}
+Log(lookup(11)) -> thread {140449479149248} found {11}
+Log(delete(11)) -> thread {140449479149248} deleted {11}
+Log(insert(0)) -> thread {140449453971136} inserted {0}
+Log(get_length()) -> thread {140449453971136}: length is {7}
+Log(lookup(0)) -> thread {140449453971136} found {0}
+Log(delete(0)) -> thread {140449453971136} deleted {0}
+Log(insert(1)) -> thread {140449453971136} inserted {1}
+Log(get_length()) -> thread {140449453971136}: length is {6}
+Log(lookup(1)) -> thread {140449453971136} found {1}
+Log(delete(1)) -> thread {140449453971136} deleted {1}
+Log(insert(2)) -> thread {140449453971136} inserted {2}
+Log(get_length()) -> thread {140449453971136}: length is {5}
+Log(lookup(2)) -> thread {140449453971136} found {2}
+Log(delete(2)) -> thread {140449453971136} deleted {2}
+Log(insert(3)) -> thread {140449453971136} inserted {3}
+Log(get_length()) -> thread {140449453971136}: length is {6}
+Log(lookup(3)) -> thread {140449453971136} found {3}
+Log(delete(3)) -> thread {140449453971136} deleted {3}
+Log(insert(4)) -> thread {140449453971136} inserted {4}
+Log(get_length()) -> thread {140449453971136}: length is {7}
+Log(lookup(4)) -> thread {140449453971136} found {4}
+Log(delete(4)) -> thread {140449453971136} deleted {4}
+Log(insert(5)) -> thread {140449453971136} inserted {5}
+Log(get_length()) -> thread {140449453971136}: length is {4}
+Log(lookup(5)) -> thread {140449453971136} found {5}
+Log(delete(5)) -> thread {140449453971136} deleted {5}
+Log(insert(6)) -> thread {140449453971136} inserted {6}
+Log(get_length()) -> thread {140449453971136}: length is {4}
+Log(lookup(6)) -> thread {140449453971136} found {6}
+Log(delete(6)) -> thread {140449453971136} deleted {6}
+Log(insert(7)) -> thread {140449453971136} inserted {7}
+Log(get_length()) -> thread {140449453971136}: length is {5}
+Log(lookup(7)) -> thread {140449453971136} found {7}
+Log(delete(7)) -> thread {140449453971136} deleted {7}
+Log(insert(8)) -> thread {140449453971136} inserted {8}
+Log(get_length()) -> thread {140449453971136}: length is {6}
+Log(lookup(8)) -> thread {140449453971136} found {8}
+Log(delete(8)) -> thread {140449453971136} deleted {8}
+Log(insert(9)) -> thread {140449453971136} inserted {9}
+Log(get_length()) -> thread {140449453971136}: length is {6}
+Log(lookup(9)) -> thread {140449453971136} found {9}
+Log(delete(9)) -> thread {140449453971136} deleted {9}
+Log(insert(10)) -> thread {140449453971136} inserted {10}
+Log(get_length()) -> thread {140449453971136}: length is {4}
+Log(lookup(10)) -> thread {140449453971136} found {10}
+Log(delete(10)) -> thread {140449453971136} deleted {10}
+Log(insert(11)) -> thread {140449453971136} inserted {11}
+Log(get_length()) -> thread {140449453971136}: length is {5}
+Log(lookup(11)) -> thread {140449453971136} found {11}
+Log(delete(11)) -> thread {140449453971136} deleted {11}
+Log(insert(0)) -> thread {140449445578432} inserted {0}
+Log(insert(0)) -> thread {140449420400320} inserted {0}
+Log(get_length()) -> thread {140449445578432}: length is {6}
+Log(get_length()) -> thread {140449420400320}: length is {6}
+Log(lookup(0)) -> thread {140449420400320} found {0}
+Log(lookup(0)) -> thread {140449445578432} found {0}
+Log(delete(0)) -> thread {140449420400320} deleted {0}
+Log(insert(1)) -> thread {140449420400320} inserted {1}
+Log(get_length()) -> thread {140449420400320}: length is {5}
+Log(lookup(1)) -> thread {140449420400320} found {1}
+Log(delete(1)) -> thread {140449420400320} deleted {1}
+Log(insert(2)) -> thread {140449420400320} inserted {2}
+Log(get_length()) -> thread {140449420400320}: length is {8}
+Log(lookup(2)) -> thread {140449420400320} found {2}
+Log(delete(2)) -> thread {140449420400320} deleted {2}
+Log(insert(3)) -> thread {140449420400320} inserted {3}
+Log(get_length()) -> thread {140449420400320}: length is {5}
+Log(lookup(3)) -> thread {140449420400320} found {3}
+Log(delete(3)) -> thread {140449420400320} deleted {3}
+Log(insert(4)) -> thread {140449420400320} inserted {4}
+Log(get_length()) -> thread {140449420400320}: length is {6}
+Log(lookup(4)) -> thread {140449420400320} found {4}
+Log(delete(4)) -> thread {140449420400320} deleted {4}
+Log(insert(5)) -> thread {140449420400320} inserted {5}
+Log(get_length()) -> thread {140449420400320}: length is {7}
+Log(lookup(5)) -> thread {140449420400320} found {5}
+Log(delete(5)) -> thread {140449420400320} deleted {5}
+Log(insert(6)) -> thread {140449420400320} inserted {6}
+Log(get_length()) -> thread {140449420400320}: length is {6}
+Log(lookup(6)) -> thread {140449420400320} found {6}
+Log(delete(6)) -> thread {140449420400320} deleted {6}
+Log(insert(7)) -> thread {140449420400320} inserted {7}
+Log(get_length()) -> thread {140449420400320}: length is {6}
+Log(lookup(7)) -> thread {140449420400320} found {7}
+Log(delete(7)) -> thread {140449420400320} deleted {7}
+Log(insert(8)) -> thread {140449420400320} inserted {8}
+Log(get_length()) -> thread {140449420400320}: length is {6}
+Log(lookup(8)) -> thread {140449420400320} found {8}
+Log(delete(8)) -> thread {140449420400320} deleted {8}
+Log(insert(9)) -> thread {140449420400320} inserted {9}
+Log(get_length()) -> thread {140449420400320}: length is {5}
+Log(lookup(9)) -> thread {140449420400320} found {9}
+Log(delete(9)) -> thread {140449420400320} deleted {9}
+Log(insert(10)) -> thread {140449420400320} inserted {10}
+Log(get_length()) -> thread {140449420400320}: length is {8}
+Log(lookup(10)) -> thread {140449420400320} found {10}
+Log(delete(10)) -> thread {140449420400320} deleted {10}
+Log(insert(11)) -> thread {140449420400320} inserted {11}
+Log(get_length()) -> thread {140449420400320}: length is {7}
+Log(lookup(11)) -> thread {140449420400320} found {11}
+Log(delete(11)) -> thread {140449420400320} deleted {11}
+Log(delete(0)) -> thread {140449445578432} deleted {0}
+Log(insert(1)) -> thread {140449445578432} inserted {1}
+Log(get_length()) -> thread {140449445578432}: length is {5}
+Log(lookup(1)) -> thread {140449445578432} found {1}
+Log(delete(1)) -> thread {140449445578432} deleted {1}
+Log(insert(2)) -> thread {140449445578432} inserted {2}
+Log(get_length()) -> thread {140449445578432}: length is {6}
+Log(lookup(2)) -> thread {140449445578432} found {2}
+Log(delete(2)) -> thread {140449445578432} deleted {2}
+Log(insert(3)) -> thread {140449445578432} inserted {3}
+Log(get_length()) -> thread {140449445578432}: length is {7}
+Log(lookup(3)) -> thread {140449445578432} found {3}
+Log(delete(3)) -> thread {140449445578432} deleted {3}
+Log(insert(4)) -> thread {140449445578432} inserted {4}
+Log(get_length()) -> thread {140449445578432}: length is {6}
+Log(lookup(4)) -> thread {140449445578432} found {4}
+Log(delete(4)) -> thread {140449445578432} deleted {4}
+Log(insert(5)) -> thread {140449445578432} inserted {5}
+Log(get_length()) -> thread {140449445578432}: length is {4}
+Log(lookup(5)) -> thread {140449445578432} found {5}
+Log(delete(5)) -> thread {140449445578432} deleted {5}
+Log(insert(6)) -> thread {140449445578432} inserted {6}
+Log(get_length()) -> thread {140449445578432}: length is {7}
+Log(lookup(6)) -> thread {140449445578432} found {6}
+Log(delete(6)) -> thread {140449445578432} deleted {6}
+Log(insert(7)) -> thread {140449445578432} inserted {7}
+Log(get_length()) -> thread {140449445578432}: length is {6}
+Log(lookup(7)) -> thread {140449445578432} found {7}
+Log(delete(7)) -> thread {140449445578432} deleted {7}
+Log(insert(8)) -> thread {140449445578432} inserted {8}
+Log(get_length()) -> thread {140449445578432}: length is {7}
+Log(lookup(8)) -> thread {140449445578432} found {8}
+Log(delete(8)) -> thread {140449445578432} deleted {8}
+Log(insert(9)) -> thread {140449445578432} inserted {9}
+Log(get_length()) -> thread {140449445578432}: length is {4}
+Log(lookup(9)) -> thread {140449445578432} found {9}
+Log(delete(9)) -> thread {140449445578432} deleted {9}
+Log(insert(10)) -> thread {140449445578432} inserted {10}
+Log(get_length()) -> thread {140449445578432}: length is {4}
+Log(lookup(10)) -> thread {140449445578432} found {10}
+Log(delete(10)) -> thread {140449445578432} deleted {10}
+Log(insert(11)) -> thread {140449445578432} inserted {11}
+Log(get_length()) -> thread {140449445578432}: length is {6}
+Log(lookup(11)) -> thread {140449445578432} found {11}
+Log(delete(11)) -> thread {140449445578432} deleted {11}
+Log(insert(0)) -> thread {140449412007616} inserted {0}
+Log(get_length()) -> thread {140449412007616}: length is {4}
+Log(lookup(0)) -> thread {140449412007616} found {0}
+Log(delete(0)) -> thread {140449412007616} deleted {0}
+Log(insert(1)) -> thread {140449412007616} inserted {1}
+Log(get_length()) -> thread {140449412007616}: length is {4}
+Log(lookup(1)) -> thread {140449412007616} found {1}
+Log(delete(1)) -> thread {140449412007616} deleted {1}
+Log(insert(2)) -> thread {140449412007616} inserted {2}
+Log(get_length()) -> thread {140449412007616}: length is {7}
+Log(lookup(2)) -> thread {140449412007616} found {2}
+Log(delete(2)) -> thread {140449412007616} deleted {2}
+Log(insert(3)) -> thread {140449412007616} inserted {3}
+Log(get_length()) -> thread {140449412007616}: length is {7}
+Log(lookup(3)) -> thread {140449412007616} found {3}
+Log(delete(3)) -> thread {140449412007616} deleted {3}
+Log(insert(4)) -> thread {140449412007616} inserted {4}
+Log(get_length()) -> thread {140449412007616}: length is {6}
+Log(lookup(4)) -> thread {140449412007616} found {4}
+Log(delete(4)) -> thread {140449412007616} deleted {4}
+Log(insert(5)) -> thread {140449412007616} inserted {5}
+Log(get_length()) -> thread {140449412007616}: length is {7}
+Log(lookup(5)) -> thread {140449412007616} found {5}
+Log(delete(5)) -> thread {140449412007616} deleted {5}
+Log(insert(6)) -> thread {140449412007616} inserted {6}
+Log(get_length()) -> thread {140449412007616}: length is {4}
+Log(insert(0)) -> thread {140449428793024} inserted {0}
+Log(get_length()) -> thread {140449428793024}: length is {6}
+Log(lookup(0)) -> thread {140449428793024} found {0}
+Log(delete(0)) -> thread {140449428793024} deleted {0}
+Log(insert(1)) -> thread {140449428793024} inserted {1}
+Log(get_length()) -> thread {140449428793024}: length is {6}
+Log(lookup(1)) -> thread {140449428793024} found {1}
+Log(delete(1)) -> thread {140449428793024} deleted {1}
+Log(insert(2)) -> thread {140449428793024} inserted {2}
+Log(get_length()) -> thread {140449428793024}: length is {6}
+Log(lookup(2)) -> thread {140449428793024} found {2}
+Log(delete(2)) -> thread {140449428793024} deleted {2}
+Log(insert(3)) -> thread {140449428793024} inserted {3}
+Log(get_length()) -> thread {140449428793024}: length is {9}
+Log(lookup(3)) -> thread {140449428793024} found {3}
+Log(delete(3)) -> thread {140449428793024} deleted {3}
+Log(insert(4)) -> thread {140449428793024} inserted {4}
+Log(get_length()) -> thread {140449428793024}: length is {6}
+Log(lookup(4)) -> thread {140449428793024} found {4}
+Log(delete(4)) -> thread {140449428793024} deleted {4}
+Log(insert(5)) -> thread {140449428793024} inserted {5}
+Log(get_length()) -> thread {140449428793024}: length is {8}
+Log(lookup(5)) -> thread {140449428793024} found {5}
+Log(delete(5)) -> thread {140449428793024} deleted {5}
+Log(insert(6)) -> thread {140449428793024} inserted {6}
+Log(get_length()) -> thread {140449428793024}: length is {8}
+Log(lookup(6)) -> thread {140449428793024} found {6}
+Log(lookup(6)) -> thread {140449412007616} found {6}
+Log(delete(6)) -> thread {140449412007616} deleted {6}
+Log(insert(7)) -> thread {140449412007616} inserted {7}
+Log(get_length()) -> thread {140449412007616}: length is {8}
+Log(lookup(7)) -> thread {140449412007616} found {7}
+Log(delete(7)) -> thread {140449412007616} deleted {7}
+Log(insert(8)) -> thread {140449412007616} inserted {8}
+Log(get_length()) -> thread {140449412007616}: length is {9}
+Log(lookup(8)) -> thread {140449412007616} found {8}
+Log(delete(8)) -> thread {140449412007616} deleted {8}
+Log(insert(9)) -> thread {140449412007616} inserted {9}
+Log(get_length()) -> thread {140449412007616}: length is {9}
+Log(lookup(9)) -> thread {140449412007616} found {9}
+Log(delete(9)) -> thread {140449412007616} deleted {9}
+Log(insert(10)) -> thread {140449412007616} inserted {10}
+Log(get_length()) -> thread {140449412007616}: length is {8}
+Log(lookup(10)) -> thread {140449412007616} found {10}
+Log(delete(10)) -> thread {140449412007616} deleted {10}
+Log(insert(11)) -> thread {140449412007616} inserted {11}
+Log(get_length()) -> thread {140449412007616}: length is {8}
+Log(lookup(11)) -> thread {140449412007616} found {11}
+Log(delete(11)) -> thread {140449412007616} deleted {11}
+Log(insert(0)) -> thread {140449437185728} inserted {0}
+Log(get_length()) -> thread {140449437185728}: length is {7}
+Log(lookup(0)) -> thread {140449437185728} found {0}
+Log(delete(0)) -> thread {140449437185728} deleted {0}
+Log(insert(1)) -> thread {140449437185728} inserted {1}
+Log(get_length()) -> thread {140449437185728}: length is {8}
+Log(lookup(1)) -> thread {140449437185728} found {1}
+Log(delete(1)) -> thread {140449437185728} deleted {1}
+Log(insert(2)) -> thread {140449437185728} inserted {2}
+Log(get_length()) -> thread {140449437185728}: length is {6}
+Log(lookup(2)) -> thread {140449437185728} found {2}
+Log(delete(2)) -> thread {140449437185728} deleted {2}
+Log(insert(3)) -> thread {140449437185728} inserted {3}
+Log(get_length()) -> thread {140449437185728}: length is {6}
+Log(lookup(3)) -> thread {140449437185728} found {3}
+Log(delete(3)) -> thread {140449437185728} deleted {3}
+Log(insert(4)) -> thread {140449437185728} inserted {4}
+Log(get_length()) -> thread {140449437185728}: length is {7}
+Log(lookup(4)) -> thread {140449437185728} found {4}
+Log(delete(4)) -> thread {140449437185728} deleted {4}
+Log(insert(5)) -> thread {140449437185728} inserted {5}
+Log(get_length()) -> thread {140449437185728}: length is {6}
+Log(lookup(5)) -> thread {140449437185728} found {5}
+Log(delete(5)) ->
